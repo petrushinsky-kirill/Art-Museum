@@ -1,9 +1,9 @@
 # Base layout template with Gulp, SCSS and Stylelint
 National Art Museum of Ukraine landing page. A responsive landing page for a art museim that showcases their Current exhibitions, news, and contact information. The website features a modern design with smooth animations, an adaptive layout, and an intuitive user interface.
 
-- [DEMO LINK](https://github.com/petrushinsky-kirill/Art-Museum.git)
+- [DEMO LINK](https://petrushinsky-kirill.github.io/Art-Museum/)
 
-Features
+## Features
 
 - Responsive design that works on all devices (mobile, tablet, desktop);
 - Interactive navigation menu with hamburger button for mobile devices;
@@ -12,7 +12,7 @@ Features
 - Contact information with phone numbers and email;
 - Social media integration.
 
-Technologies Used
+## Technologies Used
 
 HTML5 CSS3/SCSS JS
 
@@ -23,7 +23,7 @@ HTML5 CSS3/SCSS JS
 
 BEM methodology JavaScript Mobile-first workflow Responsive design principles
 
-The project includes:
+## The project includes:
 
 - Semantic HTML5 markup
 - Custom CSS animations and transitions
@@ -35,7 +35,7 @@ The project includes:
 
 The project uses several SCSS features for maintainable and scalable styling
 
-To run this project locally:
+## To run this project locally:
 
 Clone the repository https://github.com/petrushinsky-kirill/Art-Museum.git
 
